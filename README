@@ -1,4 +1,4 @@
 Bot for AI Challenge Ants.
 Language: C#
-There is some partial method at MyBot.cs. I use it for debug.
-Some methods don't use.
+There is some partial methods at MyBot.cs. I use it for debug.
+Some methods at other classes don't use, and I don't delete them.
